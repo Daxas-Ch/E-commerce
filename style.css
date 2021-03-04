@@ -1,7 +1,7 @@
 
 header
 {
-    height:200px;
+    height:300px;
     border:1px dashed black;
     font-family: 'DotGothic16', sans-serif;
 }
@@ -42,13 +42,17 @@ nav{
 
 .card
 {
-  height:200px;
-  width:150px;
+  height:166px;
+  width:241px;
   border:1px solid black;
   margin:20px;
 }
 article
 {
   display:flex;
-  margin-left:8%;
+  margin-left:2%;
+}
+nav iframe {
+  margin-left:25%;
+  border-radius: 5px;;
 }
